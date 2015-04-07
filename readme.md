@@ -1,5 +1,5 @@
 # stripe-countries [![Build Status](http://img.shields.io/travis/matiassingers/stripe-countries.svg?style=flat-square)](https://travis-ci.org/matiassingers/stripe-countries) [![Dependency Status](http://img.shields.io/gemnasium/matiassingers/stripe-countries.svg?style=flat-square)](https://gemnasium.com/matiassingers/stripe-countries)
-> list of countries + status that Stripe is available in
+> list of countries that Stripe is available in, and their current status
 
 
 ![screenshot](screenshot.png)
