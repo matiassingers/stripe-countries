@@ -1,0 +1,31 @@
+{
+  "name": "stripe-countries",
+  "version": "0.1.0",
+  "description": "list of countries + status that Stripe is available in",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bin": {
+    "stripe-countries": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matiassingers/stripe-countries"
+  },
+  "author": "Matias Singers <mail@matiassingers.com> (http://mts.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matiassingers/stripe-countries/issues"
+  },
+  "homepage": "https://github.com/matiassingers/stripe-countries",
+  "dependencies": {
+    "columnify": "1.4.1",
+    "log-symbols": "1.0.2",
+    "osmosis": "0.0.4"
+  }
+}
