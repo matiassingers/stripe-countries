@@ -42,8 +42,6 @@ function checkmark(data){
 }
 
 stripeCountries(function(results){
-  console.log(results);
-
   var columns = columnify(results, {
     columns: ['countryCode', 'country', 'open', 'beta', 'private'],
     config: {
