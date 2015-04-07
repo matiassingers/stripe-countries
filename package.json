@@ -1,6 +1,6 @@
 {
   "name": "stripe-countries",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "list of countries + status that Stripe is available in",
   "main": "index.js",
   "engines": {
