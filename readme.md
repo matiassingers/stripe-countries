@@ -1,6 +1,10 @@
 # stripe-countries [![Build Status](http://img.shields.io/travis/matiassingers/stripe-countries.svg?style=flat-square)](https://travis-ci.org/matiassingers/stripe-countries) [![Dependency Status](http://img.shields.io/gemnasium/matiassingers/stripe-countries.svg?style=flat-square)](https://gemnasium.com/matiassingers/stripe-countries)
 > list of countries + status that Stripe is available in
 
+
+![screenshot](screenshot.png)
+
+
 ## Install
 
 ```sh
