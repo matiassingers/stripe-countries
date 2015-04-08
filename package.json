@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/matiassingers/stripe-countries",
   "dependencies": {
-    "columnify": "1.4.1",
+    "columnify": "1.5.1",
     "log-symbols": "1.0.2",
     "osmosis": "0.0.4"
   }
