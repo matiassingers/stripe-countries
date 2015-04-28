@@ -17,6 +17,12 @@
     "type": "git",
     "url": "https://github.com/matiassingers/stripe-countries"
   },
+  "keywords": [
+    "stripe",
+    "countries",
+    "availability",
+    "payments"
+  ],
   "author": "Matias Singers <mail@matiassingers.com> (http://mts.io)",
   "license": "MIT",
   "bugs": {
