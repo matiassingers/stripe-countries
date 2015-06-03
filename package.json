@@ -32,6 +32,6 @@
   "dependencies": {
     "columnify": "1.5.1",
     "log-symbols": "1.0.2",
-    "osmosis": "0.0.4"
+    "osmosis": "0.0.6"
   }
 }
